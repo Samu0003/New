@@ -1,4 +1,12 @@
+<<<<<<< HEAD
  opkdsd
  d
  ds
- x=4
+=======
+ o
+ p
+ p
+ p
+
+ x=1
+>>>>>>> slave01
